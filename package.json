@@ -1,0 +1,11 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": " npx electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
